@@ -1,8 +1,18 @@
+<p align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=HalfSweet"/>
+</p>
 
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HalfSweet&include_all_commits=true&count_private-true&custom_title=HalfSweet'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalfSweet">
-</div>
+<p align="center">
+<img width="66%" src="https://github-profile-trophy.vercel.app/?username=HalfSweet&column=5&margin-w=5&margin-h=5&theme=discord"/>
+</p>
+
+<p align="center">
+<img width="66%" src="https://github-readme-stats.vercel.app/api?username=HalfSweet&include_all_commits=true&count_private-true&custom_title=HalfSweet'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9"/>
+</p>
+
+<p align="center">
+<img width="66%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalfSweet"/>
+</p>
 
 ## Connect with me  
 <div align="center">
