@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-<img width="66%" src="https://github-readme-stats.vercel.app/api?username=HalfSweet&include_all_commits=true&count_private-true&custom_title=HalfSweet'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9"/>
+<img width="66%" src="https://github-readme-stats.vercel.app/api?username=HalfSweet&include_all_commits=true&count_private=true&custom_title=HalfSweet'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9"/>
 </p>
 
 <p align="center">
-<img width="66%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalfSweet"/>
+<img width="66%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalfSweet&include_all_commits=true&count_private=true"/>
 </p>
 
 ## Connect with me  
