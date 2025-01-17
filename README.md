@@ -11,6 +11,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 09 January 2025 - To: 16 January 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## Connect with me  
