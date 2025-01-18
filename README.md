@@ -13,9 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2025 - To: 16 January 2025
+From: 10 January 2025 - To: 17 January 2025
 
-No activity tracked
+C                33 mins         █████████▒░░░░░░░░░░░░░░░   36.92 %
+C++              20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
+ObjectiveC       19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
+Markdown         14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+Rust             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
