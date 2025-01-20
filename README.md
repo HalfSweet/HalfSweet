@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2025 - To: 18 January 2025
+From: 12 January 2025 - To: 19 January 2025
 
 C++                 1 hr 1 min      ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
 C                   1 hr 1 min      ██████▓░░░░░░░░░░░░░░░░░░   26.94 %
