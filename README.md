@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2025 - To: 22 January 2025
+From: 16 January 2025 - To: 23 January 2025
 
-C                   1 hr 43 mins    ███████░░░░░░░░░░░░░░░░░░   28.49 %
-C++                 1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-ObjectiveC          52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-Markdown            23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+C                   1 hr 43 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.39 %
+C++                 1 hr 1 min      ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+ObjectiveC          52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Markdown            23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
 ```
 
 <!--END_SECTION:waka-->
