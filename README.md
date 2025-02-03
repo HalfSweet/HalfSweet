@@ -13,11 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2025 - To: 01 February 2025
+From: 26 January 2025 - To: 02 February 2025
 
-Rust       46 mins         ██████████████▓░░░░░░░░░░   59.06 %
-C          28 mins         █████████▒░░░░░░░░░░░░░░░   36.78 %
-Makefile   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Rust       1 hr 11 mins    █████████████████▒░░░░░░░   68.85 %
+C          28 mins         ███████░░░░░░░░░░░░░░░░░░   27.98 %
+Makefile   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
