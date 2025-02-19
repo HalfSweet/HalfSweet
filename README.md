@@ -13,13 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2025 - To: 17 February 2025
+From: 11 February 2025 - To: 18 February 2025
 
-C             4 hrs 54 mins   ████████████████████████░   96.08 %
-Python        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Kconfig       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-YAML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+C         2 hrs 29 mins   ██████████████████████▓░░   90.85 %
+Python    10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Rust      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Kconfig   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
