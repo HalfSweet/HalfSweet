@@ -13,12 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2025 - To: 18 February 2025
+From: 12 February 2025 - To: 19 February 2025
 
-C         2 hrs 29 mins   ██████████████████████▓░░   90.85 %
-Python    10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-Rust      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Kconfig   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+C            2 hrs 57 mins   ████████████▒░░░░░░░░░░░░   48.72 %
+Python       2 hrs 21 mins   █████████▓░░░░░░░░░░░░░░░   38.89 %
+PowerShell   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Kconfig      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
