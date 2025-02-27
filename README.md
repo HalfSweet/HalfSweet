@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 25 February 2025
+From: 19 February 2025 - To: 26 February 2025
 
-Rust             8 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   27.74 %
-Python           7 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   23.96 %
-YAML             5 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-Other            3 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-C                1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Rust             12 hrs 15 mins  ██████████░░░░░░░░░░░░░░░   39.44 %
+YAML             5 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+Python           4 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+Other            3 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+C                1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
