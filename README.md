@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2025 - To: 16 March 2025
+From: 10 March 2025 - To: 17 March 2025
 
-Python              11 hrs 16 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.85 %
-CMake               8 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
-C                   5 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-Kconfig             3 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Other               3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Python              12 hrs 3 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.14 %
+C                   5 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+CMake               4 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+Other               3 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Kconfig             3 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
 ```
 
 <!--END_SECTION:waka-->
