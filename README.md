@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2025 - To: 30 March 2025
+From: 24 March 2025 - To: 31 March 2025
 
-C                  16 hrs 31 mins  ██████████▒░░░░░░░░░░░░░░   40.73 %
-TypeScript         9 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
-CMake              3 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-C++                1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+C                12 hrs 24 mins  ███████▒░░░░░░░░░░░░░░░░░   29.96 %
+TypeScript       9 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.44 %
+Python           5 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+CMake            3 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
 ```
 
 <!--END_SECTION:waka-->
