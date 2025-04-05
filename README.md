@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2025 - To: 02 April 2025
+From: 28 March 2025 - To: 04 April 2025
 
-C                 11 hrs 21 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
-TypeScript        8 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
-Python            7 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-CMake             2 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+C                 10 hrs 50 mins  ████████▒░░░░░░░░░░░░░░░░   33.78 %
+Python            10 hrs 25 mins  ████████░░░░░░░░░░░░░░░░░   32.45 %
+Rust              2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Markdown          2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
 ```
 
 <!--END_SECTION:waka-->
