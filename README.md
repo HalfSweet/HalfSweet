@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 May 2025 - To: 28 May 2025
+From: 22 May 2025 - To: 29 May 2025
 
-Other           8 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
-YAML            7 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
-Python          5 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
-Markdown        5 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
-Linker Script   2 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+YAML            9 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   29.10 %
+Python          5 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+Markdown        5 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+Other           4 hrs 49 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+C               2 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
 ```
 
 <!--END_SECTION:waka-->
