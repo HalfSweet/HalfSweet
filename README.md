@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2025 - To: 20 June 2025
+From: 14 June 2025 - To: 21 June 2025
 
 C             27 hrs 58 mins  ████████████████░░░░░░░░░   64.63 %
 Python        6 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
