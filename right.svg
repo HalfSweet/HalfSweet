@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1176" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="510" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,23 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">littlebutt/littlebutt</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/HalfSweet</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">output</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e592275</div>
-                                        <div class="message">feat: Update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ab1a86</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/littlebutt/littlebutt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6ccf74</div>
-                                        <div class="message">feat: Update</div>
+                                        <div class="sha">#d10379f</div>
+                                        <div class="message">Deploy to GitHub pages</div>
                                     </div>
                                 </div>
                             </section>
@@ -51,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">littlebutt/littlebutt</span>
+                                        <span class="repo">HalfSweet/HalfSweet</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ed861da</div>
-                                        <div class="message">feat: Update</div>
+                                        <div class="sha">#9875992</div>
+                                        <div class="message">Update main.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -71,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">littlebutt/littlebutt</span>
+                                        <span class="repo">HalfSweet/HalfSweet</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">output</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6ac3a2b</div>
-                                        <div class="message">feat: update</div>
+                                        <div class="sha">#7585a9b</div>
+                                        <div class="message">Deploy to GitHub pages</div>
                                     </div>
                                 </div>
                             </section>
@@ -91,13 +83,13 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">littlebutt/littlebutt</span>
+                                        <span class="repo">HalfSweet/HalfSweet</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2758f6a</div>
+                                        <div class="sha">#f309bbc</div>
                                         <div class="message">Update README.md</div>
                                     </div>
                                 </div>
@@ -110,132 +102,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2546 commits in
-                                        <span class="repo">littlebutt/jdk</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/HalfSweet</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">output</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4f58af0</div>
-                                        <div class="message">8259540: MissingResourceException for key cvc-complex-type.2.4.d.1
-
-Reviewed-by: joehw</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd73127</div>
-                                        <div class="message">8354532: Open source JFileChooser Tests - Set 7
-
-Reviewed-by: prr</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76dec47</div>
-                                        <div class="message">8354340: Open source Swing Tests - Set 6
-
-Reviewed-by: azvegint, achung</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38f9b3a</div>
-                                        <div class="message">8353748: Open source several swing tests batch6
-
-Reviewed-by: kizune</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf63f9f</div>
-                                        <div class="message">8353319: Open source Swing tests - Set 3
-
-Reviewed-by: abhiscxk, dnguyen</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abbf1a0</div>
-                                        <div class="message">8355051: Problemlist java/awt/Graphics2D/CopyAreaOOB.java on macosx-aarch64
-
-Reviewed-by: prr, aivanov</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8f1be3</div>
-                                        <div class="message">8353552: Opensource Several Font related tests - Batch 3
-8355048: ProblemList TestGlyphVectorLayout.java on all platforms
-
-Reviewed-by: serb, aivanov</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#924638c</div>
-                                        <div class="message">8353661: Open source several swing tests batch5
-
-Reviewed-by: jdv</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a551cc9</div>
-                                        <div class="message">8353293: Open source several swing tests batch4
-
-Reviewed-by: serb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb08a70</div>
-                                        <div class="message">8355002: Clean up some mentions of "applet" in tests
-
-Reviewed-by: serb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22e8a97</div>
-                                        <div class="message">8354988: Separate stderr and stdout in Executor class from jpackage test lib
-
-Reviewed-by: almatvee</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eda7394</div>
-                                        <div class="message">8354900: javax/swing/AbstractButton/bug4133768.java failing on macosx-aarch64
-
-Reviewed-by: abhiscxk</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0feecb7</div>
-                                        <div class="message">8351851: Update PmemTest to run on AMD64
-
-Reviewed-by: adinn</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0995b94</div>
-                                        <div class="message">8354815: RISC-V: Change type of bitwise rotation shift to iRegIorL2I
-
-Reviewed-by: fyang, fjiang</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38f138b</div>
-                                        <div class="message">8354985: Add unit tests for Executor class from jpackage test lib
-
-Reviewed-by: almatvee</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad7c475</div>
-                                        <div class="message">8353655: Clean up and open source KeyEvent related tests (Part 1)
-
-Reviewed-by: abhiscxk</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b4b317</div>
-                                        <div class="message">8354789: Unnecessary null check in sun.awt.windows.WToolkit.getFontPeer
-
-Reviewed-by: aivanov, tr</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b06188</div>
-                                        <div class="message">8354464: Additional cleanup setting up native.encoding
-
-Reviewed-by: naoto, alanb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4eae9b5</div>
-                                        <div class="message">8354541: Remove Shenandoah post barrier expand loop opts
-
-Reviewed-by: shade</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31e293b</div>
-                                        <div class="message">8354552: Open source a few Swing tests
-
-Reviewed-by: dnguyen, psadhukhan</div>
+                                        <div class="sha">#7b004b0</div>
+                                        <div class="message">Deploy to GitHub pages</div>
                                     </div>
                                 </div>
                             </section>
@@ -247,153 +122,15 @@ Reviewed-by: dnguyen, psadhukhan</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 968 commits in
-                                        <span class="repo">littlebutt/cpython</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/HalfSweet</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c8e0b6e</div>
-                                        <div class="message">gh-132719: Fix AMD64 FreeBSD14/15 3.x failures - `test_rlock_locked_2processes` used an unknown `Value` (GH-132774)
-
-* Fix creation of resvariable</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01317bb</div>
-                                        <div class="message">gh-132479: Fix crash with multiple comprehensions in annotations (#132778)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08e331d</div>
-                                        <div class="message">PR 132638 typo fix (#132785)
-
-Update remote_debugging.rst</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b1dac6</div>
-                                        <div class="message">gh-131591: Add remote debugging attachment protocol documentation (#132638)
-
-Add a developer-facing document describing the protocol used by
-remote_exec(pid, script) to execute Python code in a running process.
-This is intended to guide debugger and tool authors in reimplementing
-the protocol.
-
-Co-authored-by: Pablo Galindo &lt;pablogsal@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da53660</div>
-                                        <div class="message">gh-131586: Avoid refcount contention in context managers (gh-131851)
-
-This avoid reference count contention in the free threading build
-when calling special methods like `__enter__` and `__exit__`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8dfa840</div>
-                                        <div class="message">gh-127604: Add C stack dumps to `faulthandler` (#128159)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea8ec95</div>
-                                        <div class="message">gh-132769: Refactor possible read-out-of-bounds in `lexer.c` (#132770)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8516343</div>
-                                        <div class="message">gh-127945: add `test_ctypes` to free-threading TSAN CI (#132727)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f7f72c</div>
-                                        <div class="message">GH-130415: Improve the JIT's unneeded uop removal pass (GH-132333)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9be3645</div>
-                                        <div class="message">gh-132777: Fix Error Message for Duplicates in generate_global_scripts.py (gh-132780)
-
-The fstring would actually raise a KeyError, which we fix. We also adjust the text to be correct.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09b624b</div>
-                                        <div class="message">gh-132639: Adds PyLong_AsNativeBytes, PyLong_FromNativeBytes and PyLong_FromUnsignedNativeBytes to the limited API (GH-132640)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70b322d</div>
-                                        <div class="message">annotations: Add tests to check that async comprehensions produce errors (#132513)
-
-This already works correctly but I forgot to test for it.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#132b6bc</div>
-                                        <div class="message">gh-132054: Add ``application/yaml`` to ``mimetypes`` (#132056)
-
-Co-authored-by: Adam Turner &lt;9087854+AA-Turner@users.noreply.github.com&gt;
-Co-authored-by: Hugo van Kemenade &lt;1324225+hugovk@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fee8089</div>
-                                        <div class="message">gh-85583: Add an overview of formatted string literals (f-strings) to ``str`` (#132689)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a04390b</div>
-                                        <div class="message">gh-132742: Add more tests for fcntl.ioctl() (GH-132756)
-
-Test with different types of argument: integer, mutable and immutable
-buffers, immutable buffer with mutable_flag set to false.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78cfee6</div>
-                                        <div class="message">gh-132753: Argument Clinic: Fix support of c_default for the bool converter (GH-132754)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc4a707</div>
-                                        <div class="message">InternalDocs: Fix outdated struct references in frames.md (#132613)
-
-Docs: Fix outdated struct references in frames.md
-
-Co-authored-by: alperyoney &lt;alperyoney@fb.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f2ba15</div>
-                                        <div class="message">gh-131298: eliminate HACL* static libraries for cryptographic modules (GH-132438)
-
-* simplify HACL* build for MD5, SHA1, SHA2 and SHA3 modules
-
-* remove statically linked libraries for HACL* implementation
-
-* is it better now?
-
-* is it better now?
-
-* fixup
-
-* Present HACL* as a static or shared library.
-
-On WASI, extension modules based on HACL* require the HACL*
-library to be linked statically. On other platforms, it can
-be built dynamically.
-
-* amend whitespace
-
-* remove temporary .so file as it requires more symlinks
-
-* avoid smelly symbols
-
-* fixup checksums
-
-* regen sbom
-
-* fixup shell warnings and comments
-
-* it *should* work</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#492e3e6</div>
-                                        <div class="message">gh-129098: avoid using content of `_pyrepl/__main__.py` when reporting tracebacks (#130721)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d8e432</div>
-                                        <div class="message">gh-132390: Apply Ruff linting to `Tools/build` (#132391)
-
----------
-
-Co-authored-by: Adam Turner &lt;9087854+aa-turner@users.noreply.github.com&gt;</div>
+                                        <div class="sha">#1a0862e</div>
+                                        <div class="message">fix: fix error name</div>
                                     </div>
                                 </div>
                             </section>
@@ -421,7 +158,7 @@ Co-authored-by: Adam Turner &lt;9087854+aa-turner@users.noreply.github.com&gt;</
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2025, 14:02:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 Jun 2025, 14:03:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
