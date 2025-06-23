@@ -32,11 +32,11 @@
   
   <br/>
   <a href="https://github.com/HalfSweet">
-    <img width="400" align="top" src="https://github.com/HalfSweet/HalfSweet/blob/main/left.svg" />
+    <img width="400" align="top" src="https://github.com/HalfSweet/HalfSweet/blob/master/left.svg" />
   </a>
   &emsp;
   <a href="https://github.com/HalfSweet">
-    <img width="400" align="top" src="https://github.com/HalfSweet/HalfSweet/blob/main/right.svg" />
+    <img width="400" align="top" src="https://github.com/HalfSweet/HalfSweet/blob/master/right.svg" />
   </a>
 </p>
 
