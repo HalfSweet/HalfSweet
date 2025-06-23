@@ -62,7 +62,7 @@ jobs:
 
           # Options
           filename: left.svg
-          user: littlebutt
+          user: HalfSweet
           template: classic
           base: header, activity, repositories
           config_timezone: Asia/Shanghai
@@ -108,7 +108,7 @@ jobs:
 
             # Options
             filename: right.svg
-            user: littlebutt
+            user: HalfSweet
             template: classic
             base: metadata
             config_timezone: Asia/Shanghai
