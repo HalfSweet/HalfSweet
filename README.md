@@ -31,12 +31,12 @@
 <p align="center">
   
   <br/>
-  <a href="https://github.com/littlebutt">
-    <img width="400" align="top" src="https://github.com/littlebutt/littlebutt/blob/main/left.svg" />
+  <a href="https://github.com/HalfSweet">
+    <img width="400" align="top" src="https://github.com/HalfSweet/HalfSweet/blob/main/left.svg" />
   </a>
   &emsp;
-  <a href="https://github.com/littlebutt">
-    <img width="400" align="top" src="https://github.com/littlebutt/littlebutt/blob/main/right.svg" />
+  <a href="https://github.com/HalfSweet">
+    <img width="400" align="top" src="https://github.com/HalfSweet/HalfSweet/blob/main/right.svg" />
   </a>
 </p>
 
