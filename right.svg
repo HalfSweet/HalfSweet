@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="517" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="677" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,17 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">HalfSweet/pebbleos</span>
+                                        <span class="repo">HalfSweet/HalfSweet</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix-gpio</span></div>
+                                    <div>on branch <span class="code">output</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e86f3d1</div>
-                                        <div class="message">fw/drivers/sf32lb52: Fix gpio driver path
-
-Added the GPIO driver in #78, but it's still the wrong path in wscript_build
-Signed-off-by: haoranjiang &lt;halfsweet@halfsweet.cn&gt;</div>
+                                        <div class="sha">#f3ef4e9</div>
+                                        <div class="message">Deploy to GitHub pages</div>
                                     </div>
                                 </div>
                             </section>
@@ -46,16 +43,23 @@ Signed-off-by: haoranjiang &lt;halfsweet@halfsweet.cn&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">HalfSweet/pebbleos</span>
+                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">exti</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fa78856</div>
-                                        <div class="message">fw/drivers/sf32lb52: Add exti drivers
+                                        <div class="sha">#bbf939b</div>
+                                        <div class="message">[bug][net] websocket printf using rt_kpirntf for UART TX DMA
 
-Signed-off-by: haoranjiang &lt;halfsweet@halfsweet.cn&gt;</div>
+redmine: #id, REDMINE-id
+
+ext-redmine: #5146, REDMINE-id
+
+[Description in detail]
+Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
+
+Change-Id: Ief44634564f13fd224596e73568b0d50c2a5cf71</div>
                                     </div>
                                 </div>
                             </section>
@@ -64,16 +68,19 @@ Signed-off-by: haoranjiang &lt;halfsweet@halfsweet.cn&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#82 fw/drivers/sf32lb52: Fix gpio driver path</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/HalfSweet</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">coredevices/pebbleos</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f0a913b</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -81,16 +88,31 @@ Signed-off-by: haoranjiang &lt;halfsweet@halfsweet.cn&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#7 Update sdk</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">OpenSiFli/SiFli-Bluetooth</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by jzlnb666 in <span class="repo">OpenSiFli/xiaozhi-sf32</span></div>
-                                    <div>427 files changed <span class="code">++9077 --6328</span></div>
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ec3fc41</div>
+                                        <div class="message">[rel][bug][bt] add reconnect when device disconnect reason 0x08
+
+Project: Bluetooth
+
+redmine: #id, REDMINE-4964
+
+ext-redmine: bug|feat#id
+
+[Description in detail]
+
+Affected branch: [master]
+
+Change-Id: I4f3e29ff22f56bdf171004a5799090f30355edd2</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -98,16 +120,81 @@ Signed-off-by: haoranjiang &lt;halfsweet@halfsweet.cn&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#79 fw/drivers/sf32lb52: Add exti drivers</span>
+                                        Pushed 5 commits in
+                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by HalfSweet in <span class="repo">coredevices/pebbleos</span></div>
-                                    <div class="comment">is a magic constant, this is because the registers in a section of the region are at most 32 bits, I'll add an explanation of the corresponding</div>
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f2db17a</div>
+                                        <div class="message">[bug][ble] add adv data for ble hid search
+
+redmine: #5673, REDMINE-5673
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: I629023ab2a774fcee1857a738d98fa3fa642ad9f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#011bed7</div>
+                                        <div class="message">[bug][example][fatfs] Update doc
+
+redmine: #id, REDMINE-id
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: I1f1c9cc3a73b5aba374b42b7b0deaafee9a54e9f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f33c8a</div>
+                                        <div class="message">[new][sensor_example] add sensor_example
+
+redmine: #5602, REDMINE-5602
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+1.Call the apis of sensor and rt_thread to achieve data reading
+2.The relevant readme document was written
+
+Change-Id: I9070c5f60d416bb0176a2f171eac8dc29d0b37bc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83cb54f</div>
+                                        <div class="message">[bug][zbt] fix ble audio readme file
+
+redmine: #id, REDMINE-id
+
+ext-redmine: #5146, REDMINE-id
+
+[Description in detail]
+Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
+
+Change-Id: I2969269507ec4796620bc8422f61b5fba1389894</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4ac9ba</div>
+                                        <div class="message">[bug][watch] Waiting for EPIC task to be completed before closing the LCD
+
+redmine: #id, REDMINE-id
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+The EPIC render-list mode flushes LCD in its callback,
+so we should wait for the EPIC task to be done before closing the LCD.
+
+Change-Id: Ic23ad2e98630833d3d8c0f74ff1f1386de8a4a90</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -115,15 +202,95 @@ Signed-off-by: haoranjiang &lt;halfsweet@halfsweet.cn&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Reviewed
-                                        <span class="issue">#79 fw/drivers/sf32lb52: Add exti drivers</span>
+                                        Pushed 7 commits in
+                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">coredevices/pebbleos</span></div>
+                                    <div>on branch <span class="code">release/v2.4</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6b3e744</div>
+                                        <div class="message">[bug][ble] add adv data for ble hid search
+
+redmine: #5673, REDMINE-5673
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: I629023ab2a774fcee1857a738d98fa3fa642ad9f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17c348a</div>
+                                        <div class="message">[bug][tools][ImgDownUart] Fix emmc download fail
+
+ext-redmine: #5696, REDMINE-5696
+
+[Description in detail]
+
+Change-Id: Iaaa1b55b17ccf2ba617edd99914ee4972dd48800</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5348ad3</div>
+                                        <div class="message">[bug][example][fatfs] Update doc
+
+redmine: #id, REDMINE-id
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: I1f1c9cc3a73b5aba374b42b7b0deaafee9a54e9f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5c1b6c</div>
+                                        <div class="message">[chore][version] Update version to 2.4.1
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: Ifc3d89822ac3cfa52c985042ec115143fef11377</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ead84f</div>
+                                        <div class="message">[chore][doc] Update Windows install description
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: I04f07191a079520b241ede56dea889d5e5737d62
+(cherry picked from commit 458818d1cbc654812ff691a5bf35be9b06848b53)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bcff0e</div>
+                                        <div class="message">[new][docs][coding-style] Add coding-style
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: If1274f6e3bf086fb6ff59d689c004c8c41bfe9f6
+(cherry picked from commit dff873af5396588213f6d020ecfcbc276f99c76a)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#547d38e</div>
+                                        <div class="message">[opt][build] Prints the error message when an error is reported
+
+redmine: #id, REDMINE-id
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+During gcc checking of the environment, an error message will be printed if an error occurs
+
+Change-Id: I299a33e10ad35b5d34b61e04acc372c2d8932b05
+(cherry picked from commit 5df0148260175a1e52f6fff94074bbc5422a781f)</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -150,7 +317,7 @@ Signed-off-by: haoranjiang &lt;halfsweet@halfsweet.cn&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2025, 09:38:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Jun 2025, 09:50:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
