@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="677" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="528" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,61 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/HalfSweet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2dd7e72</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#62 HSLink Pro存在连接不稳定的问题</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by HalfSweet in <span class="repo">cherry-embedded/CherryDAP</span></div>
+                                    <div class="comment">@huming2207 很感谢您的反馈，您的问题后续在这个issue中跟踪。
+对于最初版HSLink Pro的硬件设计来说，采用了一个电平转换芯片，因此后续所有的驱动都是由这一颗芯片来进行驱动，与MCU本身的IO驱动无关。这颗芯片的驱动能力还是比较强的，所以设计的时候就考虑到信号反射导致的问题给每一条信号线上都串接了一个22R的电阻。但是这个电阻取值不一定合理，建议您可以根据实际情况稍微增大。47 68 100甚至200R都是考虑的取值</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#62 HSLink Pro存在连接不稳定的问题</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">cherry-embedded/CherryDAP</span></div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -84,216 +139,6 @@ Change-Id: Ief44634564f13fd224596e73568b0d50c2a5cf71</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OpenSiFli/SiFli-Bluetooth</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ec3fc41</div>
-                                        <div class="message">[rel][bug][bt] add reconnect when device disconnect reason 0x08
-
-Project: Bluetooth
-
-redmine: #id, REDMINE-4964
-
-ext-redmine: bug|feat#id
-
-[Description in detail]
-
-Affected branch: [master]
-
-Change-Id: I4f3e29ff22f56bdf171004a5799090f30355edd2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f2db17a</div>
-                                        <div class="message">[bug][ble] add adv data for ble hid search
-
-redmine: #5673, REDMINE-5673
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I629023ab2a774fcee1857a738d98fa3fa642ad9f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#011bed7</div>
-                                        <div class="message">[bug][example][fatfs] Update doc
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I1f1c9cc3a73b5aba374b42b7b0deaafee9a54e9f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f33c8a</div>
-                                        <div class="message">[new][sensor_example] add sensor_example
-
-redmine: #5602, REDMINE-5602
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-1.Call the apis of sensor and rt_thread to achieve data reading
-2.The relevant readme document was written
-
-Change-Id: I9070c5f60d416bb0176a2f171eac8dc29d0b37bc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83cb54f</div>
-                                        <div class="message">[bug][zbt] fix ble audio readme file
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #5146, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: I2969269507ec4796620bc8422f61b5fba1389894</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4ac9ba</div>
-                                        <div class="message">[bug][watch] Waiting for EPIC task to be completed before closing the LCD
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-The EPIC render-list mode flushes LCD in its callback,
-so we should wait for the EPIC task to be done before closing the LCD.
-
-Change-Id: Ic23ad2e98630833d3d8c0f74ff1f1386de8a4a90</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">release/v2.4</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6b3e744</div>
-                                        <div class="message">[bug][ble] add adv data for ble hid search
-
-redmine: #5673, REDMINE-5673
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I629023ab2a774fcee1857a738d98fa3fa642ad9f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17c348a</div>
-                                        <div class="message">[bug][tools][ImgDownUart] Fix emmc download fail
-
-ext-redmine: #5696, REDMINE-5696
-
-[Description in detail]
-
-Change-Id: Iaaa1b55b17ccf2ba617edd99914ee4972dd48800</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5348ad3</div>
-                                        <div class="message">[bug][example][fatfs] Update doc
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I1f1c9cc3a73b5aba374b42b7b0deaafee9a54e9f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5c1b6c</div>
-                                        <div class="message">[chore][version] Update version to 2.4.1
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: Ifc3d89822ac3cfa52c985042ec115143fef11377</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ead84f</div>
-                                        <div class="message">[chore][doc] Update Windows install description
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I04f07191a079520b241ede56dea889d5e5737d62
-(cherry picked from commit 458818d1cbc654812ff691a5bf35be9b06848b53)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bcff0e</div>
-                                        <div class="message">[new][docs][coding-style] Add coding-style
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: If1274f6e3bf086fb6ff59d689c004c8c41bfe9f6
-(cherry picked from commit dff873af5396588213f6d020ecfcbc276f99c76a)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#547d38e</div>
-                                        <div class="message">[opt][build] Prints the error message when an error is reported
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-During gcc checking of the environment, an error message will be printed if an error occurs
-
-Change-Id: I299a33e10ad35b5d34b61e04acc372c2d8932b05
-(cherry picked from commit 5df0148260175a1e52f6fff94074bbc5422a781f)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -317,7 +162,7 @@ Change-Id: I299a33e10ad35b5d34b61e04acc372c2d8932b05
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2025, 09:50:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 30 Jun 2025, 09:46:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
