@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="791" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="670" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,115 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">OpenSiFli/xiaozhi-sf32</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">xiaozhi2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#74831d1</div>
-                                        <div class="message">[opt][audio] fix compile error
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #5146, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: Ic2fb4cecffed9452c1cf03db2fbae6d3168300f4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f76ff81</div>
-                                        <div class="message">[chore][ci] Enable more board CI for bt/spp example
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I37ce119d61d1292872092dc6a1a504520d07e55f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e904af4</div>
-                                        <div class="message">[bug][btim] Fix BTIM clock is not enabled
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I2a5205bf0cf1282ecf334314b4212d262f2cca98</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e11f159</div>
-                                        <div class="message">[opt][JDI] Optimize JDI driver
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-1.Using lppwmx rt_device APIs to control LPTIME
-2.Move PBR_LPTIM2_OUT pinmux setting to board configuration
-3.Add "bf0_hal_lptim.h" into "bf0_hal.h"
-
-Change-Id: Ibd241d768ee746ef52c70fd99018e21bc99919b1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c79f36</div>
-                                        <div class="message">[bug][board] Fix lcpu console port config error of board 58-lcd_a128r32n1, 58-lcd_n16r32n1 and 58-lcd_n16r64n4
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I2244b30c78c65239926007c6656e121f39529557</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">release/v2.4</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cba5169</div>
-                                        <div class="message">[chore][ci] Enable more board CI for bt/spp example
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I37ce119d61d1292872092dc6a1a504520d07e55f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c15d840</div>
-                                        <div class="message">[bug][btim] Fix BTIM clock is not enabled
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I2a5205bf0cf1282ecf334314b4212d262f2cca98</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e655d57</div>
-                                        <div class="message">[bug][board] Fix lcpu console port config error of board 58-lcd_a128r32n1, 58-lcd_n16r32n1 and 58-lcd_n16r64n4
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I2244b30c78c65239926007c6656e121f39529557</div>
+                                        <div class="sha">#07f8b5b</div>
+                                        <div class="message">format: 格式化代码并修改版权头</div>
                                     </div>
                                 </div>
                             </section>
@@ -149,18 +49,8 @@ Change-Id: I2244b30c78c65239926007c6656e121f39529557</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1e1d528</div>
-                                        <div class="message">[bug][doc][example] Fix pwm example title
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I5ccf85759b631e1ed022ba4a240033f40f2e4325</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3916d56</div>
-                                        <div class="message">[chore][lvgl] Fixed compile error
+                                        <div class="sha">#3615372</div>
+                                        <div class="message">[opt][clang-format] Disable automatic reordering of headers
 
 redmine: #id, REDMINE-id
 
@@ -168,56 +58,89 @@ ext-redmine: #id, REDMINE-id
 
 [Description in detail]
 
-Change-Id: I1582fa63eb73e4b3492f8f19958ea54ff36cc307</div>
+Change-Id: I9a7b7a03409203b079b83bb9f58c4b8dc3c9a3a8</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#be3c59e</div>
-                                        <div class="message">[new][board][ec-lb587_a2] Add 587evb board using A2 chip
-
-ext-redmine: #5725, REDMINE-5725
-
-[Description in detail]
-
-Change-Id: I4d8ab6836729730cf27fae06bc9f3f63561a1d0f
-(cherry picked from commit dad11fa94f5cf04f1e54b21a2d958c9a04e77379)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1dbadb</div>
-                                        <div class="message">[opt][ci] Add board ec-lb587_a2 in auto build
-
-ext-redmine: #5725, REDMINE-5725
-
-[Description in detail]
-
-Change-Id: I2dd6540500570f53dff64049b34d26c068b528e9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d213c1</div>
-                                        <div class="message">[opt][audio] allow disable uplink agc by Automatic Speech Recognition app
+                                        <div class="sha">#7dbb882</div>
+                                        <div class="message">[new][docs] Add customized tool installation path instructions
 
 redmine: #id, REDMINE-id
 
-ext-redmine:
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: Ia1c6ddb537ddb16cc71069a961ca89f4bf2ecd27</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6378ddf</div>
+                                        <div class="message">[bug][lwip] fix bug about lwip sys timeout uinit failed
+
+redmine: #id, REDMINE-5715
+
+ext-redmine: #id, REDMINE-id
 
 [Description in detail]
 Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
 
-Change-Id: Ibf93216aab9973a2cac9280ff69cd080e6e1a5fb</div>
+Change-Id: I6e77f6f700fe9debefc3b9ae57aac3204a605d2a</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5937565</div>
-                                        <div class="message">[bug][gitlab-ci] Fix a problem where too many build projects would cause an error in the collect phase
+                                        <div class="sha">#7f3d27c</div>
+                                        <div class="message">[bug][bt] fix bug about pan can't reconnect
+
+redmine: #4708, REDMINE-4708
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: I2efe28c10f88b657eead4f9cdf4ac4889774ea7d</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c67c9c0</div>
+                                        <div class="message">[bug][ble] Fixed open audio server wasted too much time which cause zf hci rx thread always locked rx buffer
 
 redmine: #id, REDMINE-id
 
 ext-redmine: #id, REDMINE-id
 
 [Description in detail]
-For gitlab ci, you can NEEDS up to 50 other jobs per job, so the script will report an error in projects with more than 50 sub-jobs. Now a sub-collect phase is introduced, which divides the collect into multiple processes
+Locked rx buffer will lead received buffer less than expected and disconnected due to 0x22
 
-Change-Id: I94aae8bfd11265f3ada1538740a77d1c3cbd4939
+Change-Id: I04c5863774f80b8e2d6e4f0000065b701f6ee45c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#496dcac</div>
+                                        <div class="message">[bug][drv][mpi] Fix DMA IRQ is not disabled after flash write
 
-Change-Id: I2bf324dbfaa146842c156abf124f78ad1c83cfc5</div>
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+flash write doesn't use DMA IRQ but it would enable NVIC interrupt, as DMA channel is not released after write, NVIC interrupt is not disabled.
+If the channel is used by other application(e.g. NVIC IRQ enabled by bootloader, user APP use the channel by configuring DMA register directly in function bt_rfc_txdc_cal for RF calibration), DMA interrupt would be triggered unexpectedly.
+
+Change-Id: I364c4f162fda57170047c194c1c495295317428a</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">OpenSiFli/sftool</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5091dcb</div>
+                                        <div class="message">release: 0.1.9</div>
                                     </div>
                                 </div>
                             </section>
@@ -230,40 +153,22 @@ Change-Id: I2bf324dbfaa146842c156abf124f78ad1c83cfc5</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 3 commits in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
+                                        <span class="repo">OpenSiFli/sftool-gui</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">release/v2.4</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d5c8031</div>
-                                        <div class="message">[bug][doc][example] Fix pwm example title
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I5ccf85759b631e1ed022ba4a240033f40f2e4325</div>
+                                        <div class="sha">#79ad1bc</div>
+                                        <div class="message">perf: 优化固件输入框</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7b9fce8</div>
-                                        <div class="message">[opt][ci] Add board ec-lb587_a2 in auto build
-
-ext-redmine: #5725, REDMINE-5725
-
-[Description in detail]
-
-Change-Id: I2dd6540500570f53dff64049b34d26c068b528e9</div>
+                                        <div class="sha">#c12c14b</div>
+                                        <div class="message">perf: 优化页面</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#dad11fa</div>
-                                        <div class="message">[new][board][ec-lb587_a2] Add 587evb board using A2 chip
-
-ext-redmine: #5725, REDMINE-5725
-
-[Description in detail]
-
-Change-Id: I4d8ab6836729730cf27fae06bc9f3f63561a1d0f</div>
+                                        <div class="sha">#52c239a</div>
+                                        <div class="message">fix: 修复移除文件会导致UI错误的问题</div>
                                     </div>
                                 </div>
                             </section>
@@ -272,17 +177,15 @@ Change-Id: I4d8ab6836729730cf27fae06bc9f3f63561a1d0f</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#34 HSLink需求收集</span>
+                                        Created new
+                      tag
+                                        <span class="code">0.1.9</span>
+                                        in
+                                        <span class="repo">OpenSiFli/sftool</span>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by kaidegit in <span class="repo">cherry-embedded/CherryDAP</span></div>
-                                    <div class="comment">HID接口只用来进行配置，没有调试功能的。所以你选能用的那个就行了，肯定都是winusb高速的。
-另外如果有新的问题，最好新建一个issue，这个issue只讨论新的需求</div>
                                 </div>
                             </section>
                         </div>
@@ -290,16 +193,31 @@ Change-Id: I4d8ab6836729730cf27fae06bc9f3f63561a1d0f</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#62 HSLink Pro存在连接不稳定的问题</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">OpenSiFli/sftool-gui</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by HalfSweet in <span class="repo">cherry-embedded/CherryDAP</span></div>
-                                    <div class="comment">其实HSLink板上自带的电平转换芯片已经足够，无需再添加额外的buffer了。我觉得您的问题更多的应该还是驱动能力过强导致的信号反射，再增加新的buffer增强信号驱动反而有可能适得其反</div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a1a6a20</div>
+                                        <div class="message">perf: 优化日志显示</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cfec50b</div>
+                                        <div class="message">perf: 新增一些过渡动画</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c442a3</div>
+                                        <div class="message">perf: 默认是SF32LB52</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f9f0d8</div>
+                                        <div class="message">feat: 不同语言的预览采用典型字符</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -326,7 +244,7 @@ Change-Id: I4d8ab6836729730cf27fae06bc9f3f63561a1d0f</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2025, 09:42:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 Jul 2025, 09:41:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
