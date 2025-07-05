@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="670" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="613" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,139 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">cheoljoo/doxygen_perlmod_python</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/HalfSweet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#63b6b47</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">OpenSiFli/SiFli-Bluetooth</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bd63c66</div>
+                                        <div class="message">[int][new][bt] can't connect spp
+
+Project: SiFliSDK
+
+redmine: #4160, REDMINE-4160
+
+ext-redmine: bug|feat#id
+
+[Description in detail]
+
+Affected branch: [main]
+
+Change-Id: I491c3f407c1612947c073ca4fbbb7b5a0cd0803c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6615758</div>
+                                        <div class="message">[int][new][BT] add extern'c' code
+
+Project: Bluetooth
+
+redmine: #id, REDMINE-id
+
+ext-redmine: bug|feat#id
+
+add extern'c' code
+
+Affected branch: [master]
+
+Change-Id: Ic33e034d9b8701d6ea77ff7eb887ec51863bd87c</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">release/v2.4</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#05938fd</div>
+                                        <div class="message">[bug][ble] can't connect spp
+
+redmine: #id, REDMINE-id
+
+ext-redmine: #4999, REDMINE-4999
+
+[Description in detail]
+
+Change-Id: Ic676e256d4f607443ac28a1f90821de15354db87</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e5de4e</div>
+                                        <div class="message">[chore][gitlab-ci] Merging CI artifacts
+
+redmine: #id, REDMINE-id
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: I03e867782e8037fb192c8aef846687fe70ccad62</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#badf9b8</div>
+                                        <div class="message">[bug][drv][mpi] Fix DMA IRQ is not disabled after flash write
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+flash write doesn't use DMA IRQ but it would enable NVIC interrupt, as DMA channel is not released after write, NVIC interrupt is not disabled.
+If the channel is used by other application(e.g. NVIC IRQ enabled by bootloader, user APP use the channel by configuring DMA register directly in function bt_rfc_txdc_cal for RF calibration), DMA interrupt would be triggered unexpectedly.
+
+Change-Id: I364c4f162fda57170047c194c1c495295317428a</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -125,102 +258,6 @@ Change-Id: I364c4f162fda57170047c194c1c495295317428a</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OpenSiFli/sftool</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5091dcb</div>
-                                        <div class="message">release: 0.1.9</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">OpenSiFli/sftool-gui</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#79ad1bc</div>
-                                        <div class="message">perf: 优化固件输入框</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c12c14b</div>
-                                        <div class="message">perf: 优化页面</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52c239a</div>
-                                        <div class="message">fix: 修复移除文件会导致UI错误的问题</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">0.1.9</span>
-                                        in
-                                        <span class="repo">OpenSiFli/sftool</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">OpenSiFli/sftool-gui</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a1a6a20</div>
-                                        <div class="message">perf: 优化日志显示</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfec50b</div>
-                                        <div class="message">perf: 新增一些过渡动画</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c442a3</div>
-                                        <div class="message">perf: 默认是SF32LB52</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f9f0d8</div>
-                                        <div class="message">feat: 不同语言的预览采用典型字符</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -244,7 +281,7 @@ Change-Id: I364c4f162fda57170047c194c1c495295317428a</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2025, 09:41:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 Jul 2025, 09:38:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
