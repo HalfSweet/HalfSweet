@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="613" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="477" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,11 +19,87 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/HalfSweet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#69edf53</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5ab382f</div>
+                                        <div class="message">[new][ble] add example of pingpong ota
+
+redmine: #4922, REDMINE-4922
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: I97e8f717f5d8b43c43812590ce7057b67a4ba4a3</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">release/v2.4</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0cf0902</div>
+                                        <div class="message">[new][ble] add example of pingpong ota
+
+redmine: #4922, REDMINE-4922
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: I97e8f717f5d8b43c43812590ce7057b67a4ba4a3</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">cheoljoo/doxygen_perlmod_python</span>
+                                        <span class="repo">lawmurray/doxide</span>
                                     </div>
                                 </div>
                             </section>
@@ -42,7 +118,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">output</span></div>
                                     <div class="commit">
-                                        <div class="sha">#63b6b47</div>
+                                        <div class="sha">#a751746</div>
                                         <div class="message">Deploy to GitHub pages</div>
                                     </div>
                                 </div>
@@ -55,205 +131,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">OpenSiFli/SiFli-Bluetooth</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bd63c66</div>
-                                        <div class="message">[int][new][bt] can't connect spp
-
-Project: SiFliSDK
-
-redmine: #4160, REDMINE-4160
-
-ext-redmine: bug|feat#id
-
-[Description in detail]
-
-Affected branch: [main]
-
-Change-Id: I491c3f407c1612947c073ca4fbbb7b5a0cd0803c</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6615758</div>
-                                        <div class="message">[int][new][BT] add extern'c' code
-
-Project: Bluetooth
-
-redmine: #id, REDMINE-id
-
-ext-redmine: bug|feat#id
-
-add extern'c' code
-
-Affected branch: [master]
-
-Change-Id: Ic33e034d9b8701d6ea77ff7eb887ec51863bd87c</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">OpenSiFli/SiFli-SDK</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">release/v2.4</span></div>
                                     <div class="commit">
-                                        <div class="sha">#05938fd</div>
-                                        <div class="message">[bug][ble] can't connect spp
+                                        <div class="sha">#67c8e97</div>
+                                        <div class="message">[chore][script] Optimize git hook scripts and remove useless scripts
 
-redmine: #id, REDMINE-id
-
-ext-redmine: #4999, REDMINE-4999
-
-[Description in detail]
-
-Change-Id: Ic676e256d4f607443ac28a1f90821de15354db87</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e5de4e</div>
-                                        <div class="message">[chore][gitlab-ci] Merging CI artifacts
-
-redmine: #id, REDMINE-id
+redmine: #5060, REDMINE-5060
 
 ext-redmine: #id, REDMINE-id
 
 [Description in detail]
+1. optimize git hook scripts
+2. delete useless scripts
+3. optimize Jenkinsfile
 
-Change-Id: I03e867782e8037fb192c8aef846687fe70ccad62</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#badf9b8</div>
-                                        <div class="message">[bug][drv][mpi] Fix DMA IRQ is not disabled after flash write
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-flash write doesn't use DMA IRQ but it would enable NVIC interrupt, as DMA channel is not released after write, NVIC interrupt is not disabled.
-If the channel is used by other application(e.g. NVIC IRQ enabled by bootloader, user APP use the channel by configuring DMA register directly in function bt_rfc_txdc_cal for RF calibration), DMA interrupt would be triggered unexpectedly.
-
-Change-Id: I364c4f162fda57170047c194c1c495295317428a</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OpenSiFli/xiaozhi-sf32</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">xiaozhi2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#07f8b5b</div>
-                                        <div class="message">format: 格式化代码并修改版权头</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3615372</div>
-                                        <div class="message">[opt][clang-format] Disable automatic reordering of headers
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I9a7b7a03409203b079b83bb9f58c4b8dc3c9a3a8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7dbb882</div>
-                                        <div class="message">[new][docs] Add customized tool installation path instructions
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: Ia1c6ddb537ddb16cc71069a961ca89f4bf2ecd27</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6378ddf</div>
-                                        <div class="message">[bug][lwip] fix bug about lwip sys timeout uinit failed
-
-redmine: #id, REDMINE-5715
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: I6e77f6f700fe9debefc3b9ae57aac3204a605d2a</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f3d27c</div>
-                                        <div class="message">[bug][bt] fix bug about pan can't reconnect
-
-redmine: #4708, REDMINE-4708
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I2efe28c10f88b657eead4f9cdf4ac4889774ea7d</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c67c9c0</div>
-                                        <div class="message">[bug][ble] Fixed open audio server wasted too much time which cause zf hci rx thread always locked rx buffer
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Locked rx buffer will lead received buffer less than expected and disconnected due to 0x22
-
-Change-Id: I04c5863774f80b8e2d6e4f0000065b701f6ee45c</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#496dcac</div>
-                                        <div class="message">[bug][drv][mpi] Fix DMA IRQ is not disabled after flash write
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-flash write doesn't use DMA IRQ but it would enable NVIC interrupt, as DMA channel is not released after write, NVIC interrupt is not disabled.
-If the channel is used by other application(e.g. NVIC IRQ enabled by bootloader, user APP use the channel by configuring DMA register directly in function bt_rfc_txdc_cal for RF calibration), DMA interrupt would be triggered unexpectedly.
-
-Change-Id: I364c4f162fda57170047c194c1c495295317428a</div>
+Change-Id: Id54105ab8068bc0795a3eabf56353fe429f27ae6</div>
                                     </div>
                                 </div>
                             </section>
@@ -281,7 +178,7 @@ Change-Id: I364c4f162fda57170047c194c1c495295317428a</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jul 2025, 09:38:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 6 Jul 2025, 09:49:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
