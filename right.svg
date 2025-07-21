@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="767" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="900" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,212 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 20 commits in
+                                        <span class="repo">78/xiaozhi-sf32</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3119136</div>
+                                        <div class="message">Merge remote-tracking branch 'OpenSiFli/xiaozhi2'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb0a5e6</div>
+                                        <div class="message">打开PSRAM Cache WB, 音频的数据放入PSRAM. 为网络数据提供更大的heap.
+
+Signed-off-by: ganghe &lt;ganghe@sifli.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51808ea</div>
+                                        <div class="message">Dianchi thread (#32)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93a4451</div>
+                                        <div class="message">将一次性可以显示的的文字len进行调整 (#31)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e745b32</div>
+                                        <div class="message">30s (#30)
+
+* 将不用的定时器删除，解决死机问题
+
+* 修复灯光偶现关不上的问题
+
+* 进入低功耗时间推迟到30s</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#862351e</div>
+                                        <div class="message">Led no off (#29)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6101be0</div>
+                                        <div class="message">将不用的定时器删除，解决死机问题 (#28)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63d4ac4</div>
+                                        <div class="message">Merge remote-tracking branch '78/main' into xiaozhi2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f38d72</div>
+                                        <div class="message">改了灯光的描述，对音量设置的死机进行修复 (#27)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d0695c</div>
+                                        <div class="message">fix: 修复内部MCP无法控制的问题</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b0be35</div>
+                                        <div class="message">fix: 修复电池电量问题</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02f6d1b</div>
+                                        <div class="message">feat: 添加蓝牙名称自定义 (#26)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db7148c</div>
+                                        <div class="message">Rgbled (#25)
+
+* 针对开启vad后功耗无法下降的问题进行改动，添加了进入sinff模式的修改
+
+* MCP添加 RGBled 工具</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#717cb1d</div>
+                                        <div class="message">fix: compile error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d54dfcc</div>
+                                        <div class="message">Merge pull request #24 from OpenSiFli/feat-custom-font
+
+feat: 添加menuconfig可选字体</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb256d3</div>
+                                        <div class="message">feat: 添加menuconfig可选字体</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e08f03</div>
+                                        <div class="message">Merge pull request #22 from OpenSiFli/xiaozhi-xty
+
+小智训练营功能</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e726d4</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/xiaozhi2' into xiaozhi-xty</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f02d0af</div>
+                                        <div class="message">feat: 添加电池电量显示</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbf93ee</div>
+                                        <div class="message">feat: 添加编码器接口</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/HalfSweet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b28a2fb</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">release/v2.4</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#840834f</div>
+                                        <div class="message">[bug][drv] Fix sf32lb52 letter series ADC measurement abnormal as chip id is not detected correctly
+
+ext-redmine: #6162, REDMINE-6162
+
+[Description in detail]
+
+Change-Id: I3bcecd15ecc13a8b723b61cefbdc5065ab89b6c5</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#28d5c10</div>
+                                        <div class="message">[bug][bootloader] Fix 52x boot fail if building with Keil 5.39 and DFU_DOWNLOAD_REGION is not defined in ptab.json
+
+ext-redmine: #6236, REDMINE-6236
+
+[Description in detail]
+If build using Keil 5.39 and DFU_DOWNLOAD_REGION is not defined in ptab.json, boot_images_help would not be called. It seems compiler thinks boot_images_help does nothing.
+Initialize `info` can solve this issue.
+
+Change-Id: Ic24641aa3628c4b6c2541817386ab1c8e5702a5f</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/HSEPDMagic</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2be7300</div>
+                                        <div class="message">fix: 修复波形编辑器页面</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -35,333 +241,6 @@
                                     <div class="commit">
                                         <div class="sha">#991f93c</div>
                                         <div class="message">feat: 更新配置文件结构</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HalfSweet/HalfSweet</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eb88d97</div>
-                                        <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">release/v2.4</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a41f25e</div>
-                                        <div class="message">[new][example] add watchv9 &amp;&amp; middleware modify
-
-redmine: #5799, REDMINE-5799
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I55d6a0fdead6b15f165a03dfb7bbfa86a178a079</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 17 commits in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1b77ebb</div>
-                                        <div class="message">[bug][build] The compilation script has been modified, and the ezip-compressed files have been successfully compiled.
-
-redmine: #10413, REDMINE-10413
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: If2dedcab4c82c2f68b918b69bd70343d3c76c4b2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9aee2fa</div>
-                                        <div class="message">[bug][drv] Fix sf32lb52 letter series ADC measurement abnormal as chip id is not detected correctly
-
-ext-redmine: #6162, REDMINE-6162
-
-[Description in detail]
-
-Change-Id: I3bcecd15ecc13a8b723b61cefbdc5065ab89b6c5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23bf56d</div>
-                                        <div class="message">[new][rt_device] Improve the TF card read/write routine
-
-redmine: #6002, REDMINE-6002
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Added a number of read/write performance test functions, improved existing functions, and added Chinese and English self-narrative files
-
-Change-Id: Ieb00ce816ffcb3a320b7c319caa031b4ba564acf</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1eefbb3</div>
-                                        <div class="message">[bug][example] rename for Linux compilation errors
-
-redmine: #5799, REDMINE-5799
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I475dc38979ac685bf5ec1fcc63d39b429dc2d7a8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1943f8</div>
-                                        <div class="message">[new][zbt] Add Eddystone example
-
-redmine: #5146, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: Id8bbafb05dee2dfdc8bd4a174567446be907ba37</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83ed3e1</div>
-                                        <div class="message">[new][zbt] Add iBeacon example
-
-redmine: #5146, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: I0f1c105b27f20b64ae7dc6440c7c0357bbe534ed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#326f6d1</div>
-                                        <div class="message">[new][zbt] Add bthome sensor template example
-
-redmine: #5146, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: Iaf1456c4e7cc88081633d101f66235ac92be6214</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac50ab8</div>
-                                        <div class="message">[new][zbt] Add ZBT broadcast multiple example
-
-redmine: #5146, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: Ia094f36dc5920a4e6441f9f10e682b39d4ab4424</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fdf6d4</div>
-                                        <div class="message">[new][zbt] Add ZBT broadcaster example
-
-redmine: #5146, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: Ie48921467c18faa7e4a9ed14653f519fafcbdd9f</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a57058</div>
-                                        <div class="message">[new][zbt] Add ZBT beacon example
-
-redmine: #5146, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: Ib99ff58e7ce624067f1c02489eca5396cb55951b</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e802635</div>
-                                        <div class="message">[opt][example] Fix the errors in the pan readme file
-
-redmine: #5775, REDMINE-5775
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Correct the error in the README file regarding the incorrect path for storing the CA certificate.
-
-Change-Id: I20f81f7f3b3bd5a21e1a7853615464d4d4ed6f5e</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b6bab7</div>
-                                        <div class="message">[bug][drv][mpi] Fix compile warning by Keil v5.39
-
-ext-redmine: #6049, REDMINE-6049
-
-[Description in detail]
-
-Change-Id: I54be668e589a1639a6fa6153d2238a3b2105b44e</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eae6700</div>
-                                        <div class="message">[new][driver] add epic example
-
-redmine: #4820
-ext-redmine: #4820
-
-[Description in detail]
-add epic example
-
-Affected branch: [main]
-
-Change-Id: I506b9d23038c3ec3c4ed45d6844ee5ddd70345e6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8897b3</div>
-                                        <div class="message">[new][zbt] Add ZBT ISO connected benchmark example
-
-redmine: #5146, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: I0f8b22c8cc1f4513183f07d92f0c3fe803673d16</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2929220</div>
-                                        <div class="message">[new][zbt] Add ISO broadcast benchmark example
-
-redmine: #5146, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: I62ce6db7929f7276a996cac6b1946b8782cadeab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21de848</div>
-                                        <div class="message">[new][zbt] Add ISO central project
-
-redmine: #5146, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: Ib01eabcb3814e0f9ba09745887fc003c653085c8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36cab35</div>
-                                        <div class="message">[new][zbt] Add ISO peripheral project
-
-redmine: #5146, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: I60938f5ec6187a6836ba10634df262df09a7f1e6</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OpenSiFli/SiFli-Bluetooth</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7b116ec</div>
-                                        <div class="message">[int][new][zbt] Add Zephyr console read support
-
-Project: Bluetooth
-
-redmine: #5146, REDMINE-id
-
-ext-redmine: bug|feat#id
-
-[Description in detail]
-
-Affected branch: [master]
-
-Change-Id: Icf69b7693ab059092b4900f6785f7acfaeceada6</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">HalfSweet/HSE42-Software</span>
                                     </div>
                                 </div>
                             </section>
@@ -389,7 +268,7 @@ Change-Id: Icf69b7693ab059092b4900f6785f7acfaeceada6</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2025, 09:55:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 Jul 2025, 09:53:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
