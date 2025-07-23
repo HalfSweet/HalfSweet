@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="840" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="520" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,11 +19,18 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Added stone-rl as collaborator in
-                                        <span class="repo">OpenSiFli/xiaozhi-sf32</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/HSE42-Software</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a6f1acc</div>
+                                        <div class="message">feat</div>
                                     </div>
                                 </div>
                             </section>
@@ -36,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">HalfSweet/HalfSweet</span>
+                                        <span class="repo">HalfSweet/Blog</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a8391ee</div>
-                                        <div class="message">Deploy to GitHub pages</div>
+                                        <div class="sha">#2e5c0d7</div>
+                                        <div class="message">update</div>
                                     </div>
                                 </div>
                             </section>
@@ -55,181 +62,75 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 20 commits in
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/Blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#be0671c</div>
+                                        <div class="message">update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/Blog</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#806cbf0</div>
+                                        <div class="message">add: 添加SSD 0x22寄存器描述</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">OpenSiFli/xiaozhi-sf32</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">xiaozhi2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3f92170</div>
+                                        <div class="message">chore: 更新SDK版本</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">78/xiaozhi-sf32</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3119136</div>
-                                        <div class="message">Merge remote-tracking branch 'OpenSiFli/xiaozhi2'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb0a5e6</div>
-                                        <div class="message">打开PSRAM Cache WB, 音频的数据放入PSRAM. 为网络数据提供更大的heap.
-
-Signed-off-by: ganghe &lt;ganghe@sifli.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51808ea</div>
-                                        <div class="message">Dianchi thread (#32)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93a4451</div>
-                                        <div class="message">将一次性可以显示的的文字len进行调整 (#31)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e745b32</div>
-                                        <div class="message">30s (#30)
-
-* 将不用的定时器删除，解决死机问题
-
-* 修复灯光偶现关不上的问题
-
-* 进入低功耗时间推迟到30s</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#862351e</div>
-                                        <div class="message">Led no off (#29)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6101be0</div>
-                                        <div class="message">将不用的定时器删除，解决死机问题 (#28)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63d4ac4</div>
-                                        <div class="message">Merge remote-tracking branch '78/main' into xiaozhi2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f38d72</div>
-                                        <div class="message">改了灯光的描述，对音量设置的死机进行修复 (#27)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d0695c</div>
-                                        <div class="message">fix: 修复内部MCP无法控制的问题</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b0be35</div>
-                                        <div class="message">fix: 修复电池电量问题</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02f6d1b</div>
-                                        <div class="message">feat: 添加蓝牙名称自定义 (#26)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db7148c</div>
-                                        <div class="message">Rgbled (#25)
-
-* 针对开启vad后功耗无法下降的问题进行改动，添加了进入sinff模式的修改
-
-* MCP添加 RGBled 工具</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#717cb1d</div>
-                                        <div class="message">fix: compile error</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d54dfcc</div>
-                                        <div class="message">Merge pull request #24 from OpenSiFli/feat-custom-font
-
-feat: 添加menuconfig可选字体</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb256d3</div>
-                                        <div class="message">feat: 添加menuconfig可选字体</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e08f03</div>
-                                        <div class="message">Merge pull request #22 from OpenSiFli/xiaozhi-xty
-
-小智训练营功能</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e726d4</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/xiaozhi2' into xiaozhi-xty</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f02d0af</div>
-                                        <div class="message">feat: 添加电池电量显示</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fbf93ee</div>
-                                        <div class="message">feat: 添加编码器接口</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HalfSweet/HalfSweet</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b28a2fb</div>
-                                        <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">release/v2.4</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#840834f</div>
-                                        <div class="message">[bug][drv] Fix sf32lb52 letter series ADC measurement abnormal as chip id is not detected correctly
-
-ext-redmine: #6162, REDMINE-6162
-
-[Description in detail]
-
-Change-Id: I3bcecd15ecc13a8b723b61cefbdc5065ab89b6c5</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#28d5c10</div>
-                                        <div class="message">[bug][bootloader] Fix 52x boot fail if building with Keil 5.39 and DFU_DOWNLOAD_REGION is not defined in ptab.json
-
-ext-redmine: #6236, REDMINE-6236
-
-[Description in detail]
-If build using Keil 5.39 and DFU_DOWNLOAD_REGION is not defined in ptab.json, boot_images_help would not be called. It seems compiler thinks boot_images_help does nothing.
-Initialize `info` can solve this issue.
-
-Change-Id: Ic24641aa3628c4b6c2541817386ab1c8e5702a5f</div>
+                                        <div class="sha">#5d16f99</div>
+                                        <div class="message">chore: 更新SDK版本</div>
                                     </div>
                                 </div>
                             </section>
@@ -257,7 +158,7 @@ Change-Id: Ic24641aa3628c4b6c2541817386ab1c8e5702a5f</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2025, 09:48:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 Jul 2025, 09:48:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
