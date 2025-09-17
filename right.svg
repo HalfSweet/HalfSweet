@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="593" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="677" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,235 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/HalfSweet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#24cda7a</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">OpenSiFli/SiFli-Bluetooth</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#66ae521</div>
+                                        <div class="message">[int][new][zbt] Add setting support in Keil, fix BT/BLE init failure.
+
+Project: Bluetooth
+
+redmine: #5146, REDMINE-id
+
+ext-redmine: bug|feat#id
+
+[Description in detail]
+
+Affected branch: [master]
+
+Change-Id: I890f33a49543f3db02912a19ec4872b0b55e73a1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff47e3e</div>
+                                        <div class="message">[int][bug][zbt] Fix compile issue.
+
+Project: Bluetooth
+
+redmine: #5146, REDMINE-id
+
+ext-redmine: bug|feat#id
+
+[Description in detail]
+
+Affected branch: [master]
+
+Change-Id: If19a4737f724a4ecee43f61bdad54b40b051533c</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">release/v2.4</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2b8f2be</div>
+                                        <div class="message">[opt][doc] Use lightbox css to optimize image browsing experience
+
+ext-redmine: #7617, REDMINE-7617
+
+[Description in detail]
+
+Change-Id: Ibf7884e2d2d855ddc77b7e89028b16cef6d6bc22</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e84d38</div>
+                                        <div class="message">[bug][build] Fix build error on Windows if there's Chinese character in rtconfig.h
+
+ext-redmine: #7659, REDMINE-7659
+
+[Description in detail]
+
+Change-Id: I76cf0d2810d16406661b74ff74975214340fc5fa</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#118cf6c</div>
+                                        <div class="message">[new][Doc] Add multi-binary configuration guide.
+
+redmine: #10154, REDMINE-id
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: I3cd04db758fc04447237935e066ef59af60c0d7b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#497ed20</div>
+                                        <div class="message">[opt][zbt] Add more printing in iso_connected_benchmark testing.
+
+redmine: #5146, REDMINE-id
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
+
+Change-Id: I31f9bf0d335a63179c5fabd97839c77a45931f30</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a8b1e0</div>
+                                        <div class="message">[opt][zbt] Update periodic_sync project setting
+
+redmine: #5146, REDMINE-id
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+Use periodic_adv as testing pair.
+
+Change-Id: Icb35b977d23cbd8d22eb10ddce317f9c329dfcf2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21e54f6</div>
+                                        <div class="message">[bug][zbt] Fix timeout issue in PBP public broadcast issue
+
+redmine: #7584, REDMINE-id
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+Timeout value set in src is too short, while sink side timeout value is too long. Also setup for 52J compatible with Samsung mobile broadcast.
+
+Change-Id: Ifed751282f4d45841ce7a30b95d9c86a13adde48</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#127d406</div>
+                                        <div class="message">[bug][zbt] Fix TMAP bmr/bms example bug
+
+redmine: #7606, REDMINE-id
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+Timeout value set in bms is too short, while receiving side timeout value is too long.
+
+Change-Id: I28f5302c8adfe0b2a2786d350081b26778c4ca2c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07d66c6</div>
+                                        <div class="message">[bug][zbt] Fix iso broadcast benchmark printing
+
+redmine: #7601, REDMINE-id
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
+
+Change-Id: I35e21fd9d8b19c2dd42e75622ca7fb04ee52ee1f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7125bc2</div>
+                                        <div class="message">[chore][usb] Update CherryUSB to the mainline
+
+redmine: #id, REDMINE-id
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: I366f6bd9ecba0c554026780b990294705a868eff</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd51168</div>
+                                        <div class="message">[opt][doc] Use lightbox css to optimize image browsing experience
+
+ext-redmine: #7617, REDMINE-7617
+
+[Description in detail]
+
+Change-Id: If55d8fa8fd7b9487e9d80673a9444d306c6cb350</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d47d13</div>
+                                        <div class="message">[bug][build] Fix build error on Windows if there's Chinese character in rtconfig.h
+
+ext-redmine: #7659, REDMINE-7659
+
+[Description in detail]
+
+Change-Id: I76cf0d2810d16406661b74ff74975214340fc5fa</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -55,175 +284,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cf8f111</div>
-                                        <div class="message">[opt][emmc] EMMC compatibility issue, which can cause errors in EMMC enumeration for some manufacturers
-
-redmine: #7638, REDMINE-7638
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I50a483075c5afc14fbd4943457b6bf9f31902687</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HalfSweet/HalfSweet</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e6a5f99</div>
-                                        <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OpenSiFli/SiFli-Bluetooth</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#50a4e4b</div>
-                                        <div class="message">[int][new][zbt] Add Zephyr setting support
-
-Project: Bluetooth
-
-redmine: #5146, REDMINE-id
-
-ext-redmine: bug|feat#id
-
-[Description in detail]
-
-Affected branch: [master]
-
-Change-Id: Iabf5eda51527667d38bb5b409fcad0b990709e9f</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dc3e839</div>
-                                        <div class="message">[bug][fsck] Fix C++ build error when fsck is enabled
-
-ext-redmine: #7617, REDMINE-7617
-
-[Description in detail]
-fsck/VERSION is misused by `ARM\ARMCLANG\include\libcxx\cstddef`. So rename it.
-
-Change-Id: Iaec2c31a684a060ddc6c69cddc0f91207fdea384</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29bf2ed</div>
-                                        <div class="message">[opt][docs] adding index to cherryusb
-
-redmine: #7409, REDMINE-7409
-
-ext-redmine: #7409, REDMINE-7409
-
-[Description in detail]
-adding index to cherryusb
-
-Change-Id: I6038a5acf52420c29646ee17e35cab1327e4c7e2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70a3220</div>
-                                        <div class="message">[bug][build] Only downgrade POSIX version to 199309L when using pthreads
-
-ext-redmine: #7184, REDMINE-7184
-
-[Description in detail]
-As POSIX implementation in rt-thread 3.1.x is not complete , just downgrade POSIX version when using pthreads to avoid pthreads type conflict. We need to update libc to rt-thread 4.1.x or 5.1.x for better compatibility.
-
-Change-Id: Ic40d9e896f13391791d672f4dc2fcda64421d608
-(cherry picked from commit 78125cd1c1abe54eb35cc1594789913d7b86c544)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5bc9bf0</div>
-                                        <div class="message">[new][example] Add the "ble" diss routine
-
-redmine: #6280, REDMINE-6280
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: Ia6ac369402cd676ac0bb071b6313ff2549d68d0d</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf1f023</div>
-                                        <div class="message">[new][example] Add the tip_cts routine for ble
-
-redmine: #6282, REDMINE-6282
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: Iea9cbcde2c10ced33ce43c5e3a29e09e4283a4ac</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f54419</div>
-                                        <div class="message">[opt][audio] fix using acpu demo
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #6014, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: I31c789ecea075e7a017fc77fe86b2ea89727f2f5</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -247,7 +307,7 @@ Change-Id: I31c789ecea075e7a017fc77fe86b2ea89727f2f5</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Sept 2025, 09:22:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Sept 2025, 09:22:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
