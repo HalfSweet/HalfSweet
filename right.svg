@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="627" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="600" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">output</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1e2989d</div>
+                                        <div class="sha">#9b858f2</div>
                                         <div class="message">Deploy to GitHub pages</div>
                                     </div>
                                 </div>
@@ -42,31 +42,78 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 5 commits in
                                         <span class="repo">OpenSiFli/SiFli-SDK</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#150f33e</div>
-                                        <div class="message">[opt][docs] Add 58-devkit-lcd board doc link
+                                        <div class="sha">#73d69cd</div>
+                                        <div class="message">[chore][docs] Update directory name in Step 2 from sf32lb52-devkit-lcd to sf32lb
+52-lcd_base
 
-ext-redmine: #101, REDMINE-101
+redmine: #id, REDMINE-id
+
+ext-redmine: #7951, REDMINE-7951
+
+[Description in detail]
+1.Renamed the folder referenced in the second operation step to match the new SDK structure.
+2.Updated the corresponding English and Chinese description
+
+Change-Id: I5a31597d4933da9f2ef35a0afe449f3e649b3457</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7009dc</div>
+                                        <div class="message">[new][board] Add 52-wlan-core_n16r16 board
+
+redmine: #6849, REDMINE-6849
+
+ext-redmine: #id, REDMINE-id
 
 [Description in detail]
 
-Change-Id: Ife78f5ce847c66bc1f11122356da20f9bdfe9b74</div>
+Change-Id: I55d6f7b194a1400f9d72ab97ce2950bd8e74d9a2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ee30a16</div>
-                                        <div class="message">[bug][build] Add PyYAML dependency needed by sdk.py
+                                        <div class="sha">#899c313</div>
+                                        <div class="message">[bug][example][lvgl_tool] Add index page for lvgl_tool example documents
+
+redmine: #7717, REDMINE-7717
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+1. Add "index" to the lvgl_tool example readme
+2. Add README_EN for NXP_GUI_Guider and SquareLine example
+3. Fix build error of GUI_Guider example
+
+Change-Id: I09dbd9a10c595de227e2ccf6f65f37547a2b7bc2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a05e860</div>
+                                        <div class="message">[opt][board] Add the JDI screen to the 52-core board.
+
+redmine: #7910, REDMINE-7910
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+1.Add the pin configuration related to the JDI screen
+2.Use lptim2 to output 60Hz pwm signal needed by JDI screen
+
+Change-Id: I12b64d92b6e460fb0c3f4742cac7e79dccde76dc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82b0de0</div>
+                                        <div class="message">[chore][build] Change dependency name to lowercase
 
 ext-redmine: #7398, REDMINE-7398
 
 [Description in detail]
 
-Change-Id: I453bbf0cff68094dfe0208e955ae824b5eb5a8d8</div>
+Change-Id: Ie573886619d8cd74b408142137e8b1b841435e02</div>
                                     </div>
                                 </div>
                             </section>
@@ -85,14 +132,18 @@ Change-Id: I453bbf0cff68094dfe0208e955ae824b5eb5a8d8</div>
                                 <div class="details">
                                     <div>on branch <span class="code">release/v2.4</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8314312</div>
-                                        <div class="message">[opt][docs] Add 58-devkit-lcd board doc link
+                                        <div class="sha">#69d1651</div>
+                                        <div class="message">[opt][hal_aon] Add the lcpu sleep function interface in hal_aon.h
 
-ext-redmine: #101, REDMINE-101
+redmine: #7302, REDMINE-7302
+
+ext-redmine: #id, REDMINE-id
 
 [Description in detail]
+1.Add the lcpu sleep function interface
 
-Change-Id: I10a77d1133b4fc4c7c80901e86297739058fc8a5</div>
+Change-Id: Ib9a0fce9becf3cf387a5a6c85040976ec54c036b
+(cherry picked from commit 9219e262973684423d88a404c1858dfb69035dfa)</div>
                                     </div>
                                 </div>
                             </section>
@@ -105,14 +156,14 @@ Change-Id: I10a77d1133b4fc4c7c80901e86297739058fc8a5</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">HalfSweet/HalfSweet</span>
+                                        <span class="repo">SiFliSparks/website</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ae1a661</div>
-                                        <div class="message">Deploy to GitHub pages</div>
+                                        <div class="sha">#0f0ea9b</div>
+                                        <div class="message">style: make tsc happy</div>
                                     </div>
                                 </div>
                             </section>
@@ -124,82 +175,15 @@ Change-Id: I10a77d1133b4fc4c7c80901e86297739058fc8a5</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">SiFliSparks/website</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dc5200b</div>
-                                        <div class="message">[bug][lcpu_a3_patch] fixed compile error when BSP_CHIP_ID_COMPATIBLE is defined.
-
-redmine: #7840, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I2ab73abef28b8d572f82be7df2d6719ec2bd98b0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bed9e1d</div>
-                                        <div class="message">[bug][link] Fixed issue: lcpu wakes with an exception when wdt2 is enabled.
-
-redmine: #7840, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I71b6a74c9e26cce23a7bc7488379e8a015ff07b4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f0d4e3</div>
-                                        <div class="message">[opt][tool] Make bin2bmp work on both python3.x and 2.x
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #7084, REDMINE-7084
-
-[Description in detail]
-
-Change-Id: Ic92a4d2d7a1b3fad2d0fb74cc9a0555a2d912a79</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26dbf6b</div>
-                                        <div class="message">[chore][doc] Fix wrong bit sequence description
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #7127, REDMINE-7127
-
-[Description in detail]
-
-Change-Id: I5604d7d7f8f77522df95fb83e5c4a13befee9479</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfb0e1c</div>
-                                        <div class="message">[bug][rtos] Fix rt_kprintf Inf/NaN float issue
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #7871, REDMINE-7871
-
-[Description in detail]
-Print "Inf" or "NaN" according the float value
-
-Change-Id: If3bb8a3a255e351f82bc659446db23fbad633bcf</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc3d946</div>
-                                        <div class="message">[new][example][cherryusb]Added cdc_hid_msc routine
-
-redmine: #7872, REDMINE-7872
-
-[Description in detail]
-
-Change-Id: I5161ef4d3456c0a72c0c9dccb8c22fab45be50c5</div>
+                                        <div class="sha">#684d9f2</div>
+                                        <div class="message">chore: update gitignore</div>
                                     </div>
                                 </div>
                             </section>
@@ -212,35 +196,18 @@ Change-Id: I5161ef4d3456c0a72c0c9dccb8c22fab45be50c5</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
+                                        <span class="repo">SiFliSparks/website</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">release/v2.4</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c4f0007</div>
-                                        <div class="message">[bug][lcpu_a3_patch] fixed compile error when BSP_CHIP_ID_COMPATIBLE is defined.
-
-redmine: #7840, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I2ab73abef28b8d572f82be7df2d6719ec2bd98b0</div>
+                                        <div class="sha">#0866126</div>
+                                        <div class="message">perf: 优化页面</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#58d35c5</div>
-                                        <div class="message">[bug][link] Fixed issue: lcpu wakes with an exception when wdt2 is enabled.
-
-redmine: #7840, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I71b6a74c9e26cce23a7bc7488379e8a015ff07b4
-(cherry picked from commit bed9e1dbd995d47619a8254916a04cc666a75c4d)</div>
+                                        <div class="sha">#4a41f06</div>
+                                        <div class="message">chore: 修改favicon</div>
                                     </div>
                                 </div>
                             </section>
@@ -268,7 +235,7 @@ Change-Id: I71b6a74c9e26cce23a7bc7488379e8a015ff07b4
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2025, 09:38:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Sept 2025, 09:25:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
