@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="610" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="560" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,93 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/HalfSweet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ebbbd6f</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4472227</div>
+                                        <div class="message">[new][ble] add new iBeacon example project
+
+redmine: #7866, REDMINE-7866
+
+ext-redmine: #id, REDMINE-id
+
+[Description in detail]
+
+Change-Id: I939a593f139ce8ad1784d8a60fec5a93d829adbf</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07f97ce</div>
+                                        <div class="message">[new][tools] Add rt-pkg command for rt-thread package management
+
+ext-redmine: #7543, REDMINE-7543
+
+[Description in detail]
+
+Change-Id: Ib8c1f677973de1451f6d05628f3e1f0ef9f2a8e2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">release/v2.4</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7ec4b68</div>
+                                        <div class="message">[bug][build] Fix build error if LIBPATH is not defined or empty
+
+ext-redmine: #101, REDMINE-101
+
+[Description in detail]
+1. if LIBPATH is absent, keyError would be triggered
+2. if LIBPATH is empty, invalid -L argument would be appended
+
+Change-Id: I40abbf19c09b40fc3df0b3ec5994eaf0cdd3aceb
+(cherry picked from commit 213cc50296778e7f203a2b635c2154e9e99f69f3)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -118,139 +205,6 @@ Change-Id: Ia4a77bff45e1bf33e693be5e3d5acb7954b194f5</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#73d69cd</div>
-                                        <div class="message">[chore][docs] Update directory name in Step 2 from sf32lb52-devkit-lcd to sf32lb
-52-lcd_base
-
-redmine: #id, REDMINE-id
-
-ext-redmine: #7951, REDMINE-7951
-
-[Description in detail]
-1.Renamed the folder referenced in the second operation step to match the new SDK structure.
-2.Updated the corresponding English and Chinese description
-
-Change-Id: I5a31597d4933da9f2ef35a0afe449f3e649b3457</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7009dc</div>
-                                        <div class="message">[new][board] Add 52-wlan-core_n16r16 board
-
-redmine: #6849, REDMINE-6849
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-Change-Id: I55d6f7b194a1400f9d72ab97ce2950bd8e74d9a2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#899c313</div>
-                                        <div class="message">[bug][example][lvgl_tool] Add index page for lvgl_tool example documents
-
-redmine: #7717, REDMINE-7717
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-1. Add "index" to the lvgl_tool example readme
-2. Add README_EN for NXP_GUI_Guider and SquareLine example
-3. Fix build error of GUI_Guider example
-
-Change-Id: I09dbd9a10c595de227e2ccf6f65f37547a2b7bc2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a05e860</div>
-                                        <div class="message">[opt][board] Add the JDI screen to the 52-core board.
-
-redmine: #7910, REDMINE-7910
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-
-1.Add the pin configuration related to the JDI screen
-2.Use lptim2 to output 60Hz pwm signal needed by JDI screen
-
-Change-Id: I12b64d92b6e460fb0c3f4742cac7e79dccde76dc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82b0de0</div>
-                                        <div class="message">[chore][build] Change dependency name to lowercase
-
-ext-redmine: #7398, REDMINE-7398
-
-[Description in detail]
-
-Change-Id: Ie573886619d8cd74b408142137e8b1b841435e02</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">release/v2.4</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#69d1651</div>
-                                        <div class="message">[opt][hal_aon] Add the lcpu sleep function interface in hal_aon.h
-
-redmine: #7302, REDMINE-7302
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-1.Add the lcpu sleep function interface
-
-Change-Id: Ib9a0fce9becf3cf387a5a6c85040976ec54c036b
-(cherry picked from commit 9219e262973684423d88a404c1858dfb69035dfa)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SiFliSparks/website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0f0ea9b</div>
-                                        <div class="message">style: make tsc happy</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -274,7 +228,7 @@ Change-Id: Ib9a0fce9becf3cf387a5a6c85040976ec54c036b
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Oct 2025, 09:40:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Oct 2025, 09:21:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
