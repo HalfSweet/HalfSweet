@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="546" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="512" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HalfSweet/HalfSweet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2d23dce</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -139,60 +159,6 @@ Change-Id: I40abbf19c09b40fc3df0b3ec5994eaf0cdd3aceb
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">OpenSiFli/SiFli-SDK</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#213cc50</div>
-                                        <div class="message">[bug][build] Fix build error if LIBPATH is not defined or empty
-
-ext-redmine: #101, REDMINE-101
-
-[Description in detail]
-1. if LIBPATH is absent, keyError would be triggered
-2. if LIBPATH is empty, invalid -L argument would be appended
-
-Change-Id: I40abbf19c09b40fc3df0b3ec5994eaf0cdd3aceb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf4bf5b</div>
-                                        <div class="message">[chore][example] Fix the error in the "finish" command in the readme.md file
-
-redmine: #7906, REDMINE-7906
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Correct the mistake in the readme.md file where "myhello" was written as "hello".
-
-Change-Id: I826e091a80ef3382100950f73e7779d053383053</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#190b174</div>
-                                        <div class="message">[new][zbt] Add zephyr porting header
-
-redmine: #5146, REDMINE-id
-
-ext-redmine: #id, REDMINE-id
-
-[Description in detail]
-Describe the change in more detail, e.g. how is the problem fixed, why do you make the modification in this way, explain the feature in more details
-
-Change-Id: I6399146a087f9317d4dfeb96e7ed07e44aa005bf</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -216,7 +182,7 @@ Change-Id: I6399146a087f9317d4dfeb96e7ed07e44aa005bf</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Oct 2025, 09:19:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 Oct 2025, 09:37:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
