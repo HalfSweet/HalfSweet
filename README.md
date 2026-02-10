@@ -2,15 +2,10 @@
     <img align="center" src="https://komarev.com/ghpvc/?username=HalfSweet"/>
 </p>
 
-<p align="center">
-<img width="66%" src="https://github-profile-trophy.vercel.app/?username=HalfSweet&column=5&margin-w=5&margin-h=5&theme=discord"/>
-</p>
-
-<p align="center">
-<img width="66%" src="https://github-readme-stats.vercel.app/api?username=HalfSweet&include_all_commits=true&count_private=true&custom_title=HalfSweet'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9"/>
-</p>
-
-[![wakatime](https://wakatime.com/share/@c9d7043c-f5e1-4e08-8df1-373d7b06fe5e/bc53bd43-b675-41e2-b4d5-7d2bce90d48e.svg)](https://wakatime.com/@c9d7043c-f5e1-4e08-8df1-373d7b06fe5e)
+<div align="center" style="display: flex; justify-content: center; max-width: 600px; margin: 0 auto;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HalfSweet&theme=dracula&exclude=html,Gerber%20Image" alt="Repos per Language" style="flex: 1; max-width: 50%;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HalfSweet&theme=dracula&exclude=html,Gerber%20Image" alt="Most Commit Language" style="flex: 1; max-width: 50%;">
+</div>
 
 ## Connect with me  
 <div align="center">
